@@ -8,7 +8,7 @@ This is a self study from the youtube video provided by Alladin Persson.
 
 All code and information from the youtube video.
 
-
+![Yolo-640x300](https://github.com/reuissir/Deep-Learning/assets/96709570/5df69f3b-8b50-49b3-9d67-0c69b9bcb6d3)
 YOLO v1 architecture
 Input: 448x448x3
 Convolution (7x7x64 filters, stride 2, pad 3): 224x224x64
