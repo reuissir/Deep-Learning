@@ -9,5 +9,12 @@ This is a self study from the youtube video provided by Alladin Persson.
 All code and information from the youtube video.
 
 
+YOLO v1 architecture
+Input: 448x448x3
+Convolution (7x7x64 filters, stride 2, pad 3): 224x224x64
+Max-Pooling (2x2, stride 2): 112x112x64
+Convolution (3x3x192 filters, stride 1, pad 1): 112x112x192
+Max-Pooling (2x2, stride 2): 56x56x192
+
 
 
